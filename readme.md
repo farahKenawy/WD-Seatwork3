@@ -5,8 +5,8 @@
 
 <br />
 <div align="center">
-  <a href="/WD-Seatwork3/assets/img/KVisuals (1).png">
-    <img src="/WD-Seatwork3/assets/img/KVisuals (1).png" alt="KVisuals-logo" width="200" height="150">
+  <a href="./assets/img/KVisuals.png">
+    <img src="./assets/img/KVisuals.png" alt="KVisuals-logo" width="200" height="150">
   </a>
   <h3 align="center">KVisuals</h3>
 </div>
